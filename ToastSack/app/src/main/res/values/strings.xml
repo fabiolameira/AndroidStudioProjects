@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ToastSack</string>
-    <string name="introduza_o_texto">Introduza o texto</string>
-    <string name="toast">Toast</string>
-    <string name="snack">Snack</string>
-</resources>

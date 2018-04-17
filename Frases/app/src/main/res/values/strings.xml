@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Frases</string>
-    <!-- Recursos de Nova Frase -->
-    <string name="nova_frase">Nova Frase</string>
-    <!-- Recursos de Settings -->
-    <string name="action_settings">Settings</string>
-    <string name="texto_frase_dia">Nova Frase</string>
-</resources>

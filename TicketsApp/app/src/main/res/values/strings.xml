@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TicketsApp</string>
-    <string name="button">Button</string>
-    <string name="textview">TextView</string>
-    <string name="pedido">Pedido</string>
-</resources>
